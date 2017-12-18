@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "920150403713",
+    "firebase_url": "https://masterdetailjuegos.firebaseio.com",
+    "project_id": "masterdetailjuegos",
+    "storage_bucket": "masterdetailjuegos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920150403713:android:43e8ef3d30963fd0",
+        "android_client_info": {
+          "package_name": "com.example.alfonsohh.masterdetailjuegos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920150403713-bb54f44j2i6ucfot0b6luoefc6vblokg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alfonsohh.masterdetailjuegos",
+            "certificate_hash": "fb87b5dc5399afcc7a840adab718a9135af24def"
+          }
+        },
+        {
+          "client_id": "920150403713-ofq2sn02v1q7gnn6416rin9ecbconrto.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB44dHG0e_Osoi0xS5Ct6FM8jalny5JUlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920150403713-ofq2sn02v1q7gnn6416rin9ecbconrto.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
